@@ -8,8 +8,9 @@
 - [MiraiGo仓库地址](https://github.com/Mrs4s/MiraiGo)
 
 ### 由第三方提供维护的页面
-- [Nonebot2文档](https://v2.nonebot.dev/)
 - [OneBot文档](https://1bot.dev)
+- [Nonebot2文档](https://v2.nonebot.dev/)
+- [ZeroBot文档](https://github.com/wdvxdr1123/ZeroBot#zerobot)
 
 ## 群规
 - [群规](./rules.md)
