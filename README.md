@@ -12,6 +12,7 @@
 - [OneBot文档](https://1bot.dev)
 - [Nonebot2文档](https://v2.nonebot.dev/)
 - [ZeroBot文档](https://github.com/wdvxdr1123/ZeroBot#zerobot)
+- [Nonebot2保姆教程](https://yzyyz.top/archives/nonebot2.html)
 
 ## 群规
 - [群规](./rules.md)
