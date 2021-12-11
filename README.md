@@ -4,6 +4,7 @@
 - [首页](https://go-cqhttp.org)
 - [帮助中心](https://docs.go-cqhttp.org/)
 - [go-cqhttp常见问题](https://github.com/Mrs4s/go-cqhttp/issues/633)
+- [go-cqhttp最新release版下载地址](https://github.com/Mrs4s/go-cqhttp/releases)
 - [go-cqhttp仓库地址](https://github.com/Mrs4s/go-cqhttp)
 - [MiraiGo仓库地址](https://github.com/Mrs4s/MiraiGo)
 
